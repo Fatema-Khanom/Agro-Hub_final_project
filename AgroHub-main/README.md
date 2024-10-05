@@ -1,3 +1,4 @@
+
 # AgroHub
 
 ![AgroHub Logo](https://your-image-url-here.com)
@@ -12,6 +13,9 @@ AgroHub is an advanced platform that empowers farmers by providing real-time wea
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Clone the Repository](#clone-the-repository)
+    - [Install Dependencies](#install-dependencies)
+    - [Start the Application](#start-the-application)
+  - [Deployment](#deployment)
 
 ## Features
 
@@ -49,5 +53,25 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Fatema-Khanom/AgroHub.git
+git clone https://github.com/Fatema-Khanom/Agro-Hub_final_project.git
 cd AgroHub
+```
+
+### Install Dependencies
+```bash
+npm install
+```
+
+### Start the Application
+```bash
+npm run dev
+```
+
+## Deployment
+
+The app is live and deployed on Vercel. You can access it here:  
+[AgroHub Live Website](https://agrohub2024.vercel.app/)
+
+
+
+
